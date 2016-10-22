@@ -1,0 +1,60 @@
+<!DOCTYPE NoteCase-File>
+<!--LastNote:3-->
+<HTML>
+<HEAD>
+<meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
+<meta name="generator" content="NoteCase Pro 4.1.1">
+<meta name="format_version" content="4.0.8">
+</HEAD>
+<BODY>
+<!--property:UID=iCY3HX3qlHXMI64nGn8GCA-->
+<!--property:prop_modified=0-->
+<DL>
+<DT><A name="DaqI2DXBysCleTGdUY8RxA"></A>Info</DT>
+<!--property:icon_internal=book_open-->
+<!--property:date_created=1477129307-->
+<!--property:date_modified=1477129535-->
+<!--property:expanded-->
+<!--property:hash=6a1bbe9fe7df87e66efecfb51fec319a4c62b2a1-->
+<!--property:hash_html=6a1bbe9fe7df87e66efecfb51fec319a4c62b2a1-->
+<DD>
+ASP.Net Core based Framework to Subscribe, Recceive an Send Events.<DL>
+<DT><A name="nwyuIO7ZETqFomZx5whX1A"></A>Library</DT>
+<!--property:icon_internal=bullet_white-->
+<!--property:date_created=1477129561-->
+<!--property:date_modified=1477129662-->
+<!--property:hash=e62ecfd590e6dc78de6ad608a8a76d51fc170fe6-->
+<!--property:hash_html=318de0f60670d53ef9a40b14babdf698095c58c1-->
+<DD>
+trafavent\src\lib<BR>
+<BR>
+<BR>
+
+</DD>
+</DL>
+</DD>
+<DT><A name="dIYxyc0k3IcTXVItG5hhew"></A>Tickets</DT>
+<!--property:icon_internal=wrench-->
+<!--property:date_created=1477129322-->
+<!--property:date_modified=1477129549-->
+<!--property:expanded-->
+<!--property:hash=da39a3ee5e6b4b0d3255bfef95601890afd80709-->
+<!--property:hash_html=da39a3ee5e6b4b0d3255bfef95601890afd80709-->
+<DD>
+<DL>
+<DT><A name="NQYimMZiyzSZ13Dy6FRzHw"></A>Beispielprojekt hinzufügen</DT>
+<!--property:icon_internal=bullet_red-->
+<!--property:date_created=1477129367-->
+<!--property:date_modified=1477129673-->
+<!--property:hash=38faee3b3e715dcb6077d5f3c4d11984e1fb9380-->
+<!--property:hash_html=ab866954d152abe81fba5334e9e96ddaf1f94093-->
+<DD>
+Unter:  trafavent\src\examples<BR>
+<BR>
+Asp.Net Core Standardprojekt
+</DD>
+</DL>
+</DD>
+</DL>
+</BODY>
+</HTML>
